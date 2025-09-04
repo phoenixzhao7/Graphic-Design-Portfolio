@@ -1,6 +1,6 @@
 # Phoenix Zhao — Graphic Design Portfolio
 
-Greetings! This repository showcases the digital illustrations I've worked on in an interactive website. Each display includes a picture and a description of the purpose. 
+Greetings! This repository showcases the digital illustrations I've worked on in the past for various clubs, organizations, and other creative endeavors. My interactive website includes an image display and a short caption for each project. 
 
 ## License
 
