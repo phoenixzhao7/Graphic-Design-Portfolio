@@ -1,6 +1,8 @@
 # Phoenix Zhao — Graphic Design Portfolio
 
-Greetings! This repository showcases the digital illustrations I've worked on in the past for various clubs, organizations, and other creative endeavors. My interactive website includes an image display and a short caption for each project. 
+Collection of my digital illustrations created for various clubs, organizations, and creative projects. The accompanying interactive website presents each piece with an image display and a brief caption. 
+
+You can view the portfolio online here --> https://phoenixzhao7.github.io/Graphic-Design-Portfolio/
 
 ## License
 
@@ -10,4 +12,4 @@ No part of this work may be reproduced, distributed, or transmitted without prio
 ## Contact
 
 For inquiries and commissions, please contact me by email (pheanixz60@gmail.com).
-You can view the portfolio online here --> https://phoenixzhao7.github.io/Graphic-Design-Portfolio/
+
