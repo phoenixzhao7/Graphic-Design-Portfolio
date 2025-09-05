@@ -1,4 +1,4 @@
-# Phoenix Zhao | Graphic Design Portfolio |
+# Phoenix Zhao ~ Graphic Design Portfolio 
 
 Collection of my digital illustrations created for various clubs, organizations, and creative projects. The accompanying interactive website presents each piece with an image display and a brief caption. 
 
