@@ -6,8 +6,8 @@ You can view the portfolio online here --> https://phoenixzhao7.github.io/Graphi
 
 ## License
 
-All artwork and content in this repository are **© 2023-2025 Phoenix Zhao. All Rights Reserved**.  
-No part of this work may be reproduced, distributed, or transmitted without prior written permission.
+All artwork, designs, and content in this repository are protected by copyright law **© 2023-2025 Phoenix Zhao All Rights Reserved** 
+No part of this work may be reproduced, distributed, or transmitted in any form without the prior written permission of the copyright owner and appropriate credit.
 
 ## Contact
 
