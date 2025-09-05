@@ -1,8 +1,8 @@
 # Phoenix Zhao ~ Graphic Design Portfolio 
 
-Collection of my digital illustrations created for various clubs, organizations, and creative projects. The accompanying interactive website presents each piece with an image display and a brief caption. 
+Collection of my digital illustrations created for various clubs, organizations, and other creative projects displayed in an interactive website. 
 
-You can view the portfolio online here --> https://phoenixzhao7.github.io/Graphic-Design-Portfolio/
+View the portfolio online here --> https://phoenixzhao7.github.io/Graphic-Design-Portfolio/
 
 ## License
 
